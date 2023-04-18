@@ -11,6 +11,7 @@
             padding: 0;
             width: 100%;
             height: auto;
+            max-width: 600px; /* Adicione essa linha */
         }
     </style>
 </head>
@@ -41,4 +42,5 @@
 <!-- End Save for Web Slices -->
 </body>
 </html>
+
 
