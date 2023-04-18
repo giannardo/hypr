@@ -1,5 +1,3 @@
-# hypr
-HYpr 3 years
 <html>
 <head>
 <title>hypr_beats_of_the_city_confirmacao</title>
